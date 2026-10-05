@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/DrakesCore/master/banner.svg" width="100%" alt="DrakesCore animated banner" />
+  <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/DrakesCore/master/banner.svg" width="100%" alt="DrakesCore animated banner" />
 </p>
 
 # DrakesCore (Legacy Monolith)
 
-> **Archivado como referencia histórica.** La evolución del ecosistema continúa en [Drakes-Suites](https://github.com/DrakesCraft-Labs/Drakes-Suites), con los ocho módulos, y en [Odysseia](https://github.com/DrakesCraft-Labs/Odysseia) para el motor de progreso y gameplay. No se aceptan implementaciones nuevas aquí.
+> **Archivado como referencia histórica.** La evolución del ecosistema continúa en [Drakes-Suites](https://github.com/SlimefunNewHorizons/Drakes-Suites), con los ocho módulos, y en [Odysseia](https://github.com/SlimefunNewHorizons/Odysseia) para el motor de progreso y gameplay. No se aceptan implementaciones nuevas aquí.
 
 > ### 🏰 ¡Únete a la Comunidad Oficial de DrakesCraft!
 > 
@@ -61,6 +61,6 @@ mismo dominio.
 
 ## 📄 License & Intellectual Property
 
-Copyright © 2026 [**JackStar6677-1**](https://github.com/JackStar6677-1) · [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs). All Rights Reserved.
+Copyright © 2026 [**JackStar6677-1**](https://github.com/JackStar6677-1) · [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons). All Rights Reserved.
 
 This software is **Source-Available** for public inspection and technical audit. Redistribution, commercial repackaging, or unauthorized derivative distribution without explicit written permission from the author is strictly prohibited.
